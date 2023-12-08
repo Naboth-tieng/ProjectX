@@ -12,7 +12,8 @@ const About = () => {
     <div>
       <h2>About Christmas</h2>
       <p>
-        Christmas is a time for joy, celebration, and giving. It marks the birth of Jesus Christ
+      Christmas is a time to rejoice, celebrate, and shower your loved ones with affection and other treats.
+        People commemorate it with a variety of rituals and traditions all around the world, commemorating the birth of Jesus Christ
       </p>
     </div>
     </div>
