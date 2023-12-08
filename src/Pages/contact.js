@@ -10,6 +10,9 @@ const ContactUs = () => {
 
   return (
     <div>
+      <div>
+
+      </div>
       <h2>Contact Us</h2>
       <p>
         Submit your email and wishes to Santa to get on the 'Nice List' this Christmas!
@@ -20,7 +23,9 @@ const ContactUs = () => {
           Send Email to Santa
         </button>
       </form>
+    
     </div>
+    
   );
 };
 
