@@ -1,19 +1,6 @@
 // About.js
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 import React from 'react';
 import Santa from './aboutsanta.svg'
 
@@ -27,7 +14,6 @@ const About = () => {
       <p>
         Christmas is a time for joy, celebration, and giving. It marks the birth of Jesus Christ
         and is celebrated by people around the world with various traditions and customs.
-        {/* Add more information and visuals about Christmas */}
       </p>
     </div>
     </div>
