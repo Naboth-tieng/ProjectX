@@ -1,4 +1,19 @@
 // About.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import React from 'react';
 import Santa from './aboutsanta.svg'
 
@@ -20,3 +35,4 @@ const About = () => {
 };
 
 export default About;
+{/*created a conflict on this page */}
